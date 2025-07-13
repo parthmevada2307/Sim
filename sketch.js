@@ -90,7 +90,7 @@ function mousePressed() {
       
        if (btn.label === "How is it acidic or basic?" 
 ) {
-        window.open("https://parthmevada2307.github.io/Sim2/");
+        window.open("https://parthmevada2307.github.io/Sim2/","_blank");
       }
       
       if (btn.label === "Mix and Change! Can We Flip It?") {
