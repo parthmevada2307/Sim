@@ -85,16 +85,16 @@ function mousePressed() {
 
      
       if (btn.label === "Magic Liquids: Acid or Base?") {
-        window.open("https://editor.p5js.org/parth.m3/full/bsc7q_UCY", "_blank");
+        window.open("https://parthmevada2307.github.io/Sim1/", "_blank");
       }
       
        if (btn.label === "How is it acidic or basic?" 
 ) {
-        window.open("https://editor.p5js.org/parth.m3/full/HCMpHB69U-");
+        window.open("https://parthmevada2307.github.io/Sim2/");
       }
       
       if (btn.label === "Mix and Change! Can We Flip It?") {
-        window.open("https://editor.p5js.org/parth.m3/full/vhM6ykRdi", "_blank");
+        window.open("https://parthmevada2307.github.io/Sim3/", "_blank");
       }
     }
   }
